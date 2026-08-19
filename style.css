@@ -1,0 +1,75 @@
+.head1{
+    background-color:navy;
+    text-decoration: none;
+}
+.nav1{
+    justify-content: space-evenly;
+    color: azure;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}
+.line1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    color: azure;
+}
+.h{
+text-align: center;
+color: azure;
+text-decoration: none;
+
+}
+
+.p1{
+text-align: center;
+color: azure;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.div1{
+    background-color: rgb(64, 0, 255);
+    padding: 10px;
+}
+.exp{
+    color: azure;
+    background-color: orangered;
+    line-height: 40px;
+    border-radius: 10px;
+    border: px;
+    align-items: center;
+    outline: px;
+    outline-color: ;
+    align-items: center;
+    padding: 10px 30px;
+}
+.about{
+    color: white;
+    background-color: transparent;
+    border-radius: 10px;
+    line-height: 40px;
+    border-color: azure;
+    align-items: center;
+    outline-color: azure;
+    outline-width: 10px;
+    border: px;
+    border-width: ;
+    padding: 10px 30px;
+    
+}
+h5{
+    color: orange;
+    margin-left: 45px;
+}
+h2{
+    color: navy;
+    margin-left: 45px;
+}
+.div2{
+    text-align: center;
+}
