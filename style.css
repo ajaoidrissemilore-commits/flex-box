@@ -44,7 +44,6 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     border: px;
     align-items: center;
     outline: px;
-    outline-color: ;
     align-items: center;
     padding: 10px 30px;
 }
@@ -58,7 +57,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     outline-color: azure;
     outline-width: 10px;
     border: px;
-    border-width: ;
+    border-width: 10px;
     padding: 10px 30px;
     
 }
@@ -72,7 +71,4 @@ h2{
 }
 .div2{
     text-align: center;
-}
-@media screen and  {
-    
 }
